@@ -1,0 +1,8 @@
+{
+  "name": "cc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/intellidev1991/conventional-commits-test.git",
+  "author": "Hamed Taheri <hamed.taheri32@gmail.com>",
+  "license": "MIT"
+}
