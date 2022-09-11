@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.0](https://github.com/intellidev1991/conventional-commits-test/compare/v3.0.0...v3.1.0) (2022-09-11)
+
+
+### Features
+
+* add new dependency ([ffc76dc](https://github.com/intellidev1991/conventional-commits-test/commit/ffc76dca3ef3ea5f399cfa7bf1ead2c28a9910a9))
+
 ## [3.0.0](https://github.com/intellidev1991/conventional-commits-test/compare/v2.0.0...v3.0.0) (2022-09-11)
 
 
