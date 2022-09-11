@@ -18,7 +18,9 @@
     "moment": "^2.29.4"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
     "eslint-plugin-react": "^7.31.8",
-    "husky": "^8.0.1"
+    "husky": "^8.0.0"
   }
 }
