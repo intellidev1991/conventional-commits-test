@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/intellidev1991/conventional-commits-test/compare/v1.1.0...v2.0.0) (2022-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add moment & auto merge
+
+### Features
+
+* Add moment & auto merge ([4a6b14c](https://github.com/intellidev1991/conventional-commits-test/commit/4a6b14c790d49a5a852ed66b1af6b3f9ae5e0c8a))
+
+
+### Bug Fixes
+
+* husky hooks ([eec8d50](https://github.com/intellidev1991/conventional-commits-test/commit/eec8d50a9175abbde32fe3c8c63228a1977803fc))
+
 ## [1.1.0](https://github.com/intellidev1991/conventional-commits-test/compare/v1.0.0...v1.1.0) (2022-09-10)
 
 
