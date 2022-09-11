@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.0](https://github.com/intellidev1991/conventional-commits-test/compare/v2.0.0...v3.0.0) (2022-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* **init:** normal commits does not work anymore
+
+### Features
+
+* add linter ([02e9a11](https://github.com/intellidev1991/conventional-commits-test/commit/02e9a112b73d15b45a710c3762ec0e34383c2037))
+* **init:** add commitizem as conventional commits ([644b4f9](https://github.com/intellidev1991/conventional-commits-test/commit/644b4f9a963e81f39a794c96885d8eb067528097))
+* lint-staged ([da59fa2](https://github.com/intellidev1991/conventional-commits-test/commit/da59fa21c335896bbd210f8bf74e380222ed4ba3))
+
+
+### Bug Fixes
+
+* error ([0af4706](https://github.com/intellidev1991/conventional-commits-test/commit/0af47068b06a2c09b8402ae19454bd170e32fa2e))
+
 ## [2.0.0](https://github.com/intellidev1991/conventional-commits-test/compare/v1.1.0...v2.0.0) (2022-09-11)
 
 
