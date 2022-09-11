@@ -15,7 +15,8 @@
     "is-ci": "^3.0.1",
     "lint-staged": "^13.0.3",
     "lodash": "^4.17.21",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "nanoid": "^4.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
