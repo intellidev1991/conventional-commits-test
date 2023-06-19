@@ -24,7 +24,7 @@
     "commitizen": "4.2.5",
     "cz-conventional-changelog": "3.3.0",
     "eslint-plugin-react": "7.31.8",
-    "husky": "8.0.1"
+    "husky": "8.0.3"
   },
   "config": {
     "commitizen": {
